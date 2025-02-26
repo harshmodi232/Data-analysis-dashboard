@@ -31,7 +31,8 @@ The goal of this project is to create an **interactive Power BI dashboard** that
 
 ## 📉 Dashboard Features
 
-![Screenshot (47)](https://github.com/user-attachments/assets/38778697-d511-41c2-a90d-566e154e7c99)
+<img width="605" alt="madhav-ecommerce-sale-dashboard" src="https://github.com/user-attachments/assets/45901099-8487-4b2b-99e5-c5245418ceba" />
+
 
 - **Dynamic Filters & Slicers** for customized data analysis.
 - **Interactive Charts** including bar, pie, scatter, and line charts.
