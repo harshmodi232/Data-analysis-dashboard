@@ -1,7 +1,7 @@
-# Madhav-Ecommerce Data Analysis (Interactive Dashboard using Power BI)
+# Harsh-Ecommerce Data Analysis (Interactive Dashboard using Power BI)
 
 ## 📌 Project Title
-**Power BI Sales Dashboard for Madhav-Ecommerce**
+**Power BI Sales Dashboard for Harsh-Ecommerce**
 
 ## 🎯 Objective
 The goal of this project is to create an **interactive Power BI dashboard** that analyzes online sales data, provides actionable insights, and enhances data-driven decision-making. This dashboard enables users to explore key sales metrics through **filters, slicers, and dynamic visualizations**.
@@ -31,8 +31,7 @@ The goal of this project is to create an **interactive Power BI dashboard** that
 
 ## 📉 Dashboard Features
 
-<img width="605" alt="madhav-ecommerce-sale-dashboard" src="https://github.com/user-attachments/assets/45901099-8487-4b2b-99e5-c5245418ceba" />
-
+<img width="605" alt="harsh-ecommerce-sale-dashboard" src="https://github.com/user-attachments/assets/45901099-8487-4b2b-99e5-c5245418ceba" />
 
 - **Dynamic Filters & Slicers** for customized data analysis.
 - **Interactive Charts** including bar, pie, scatter, and line charts.
@@ -47,4 +46,3 @@ This project showcases **data visualization, dashboard design, and business inte
 📌 **Tools Used:** Power BI, Excel
 
 🔗 **Author:** Harsh Modi
-
