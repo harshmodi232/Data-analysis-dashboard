@@ -31,7 +31,8 @@ The goal of this project is to create an **interactive Power BI dashboard** that
 
 ## 📉 Dashboard Features
 
-![Uploading harsh-ecommerce-sale-dashboard.png…]()
+<img width="604" alt="harsh-ecommerce-sale-dashboard" src="https://github.com/user-attachments/assets/511997a9-7006-42e3-8d9f-0eb384c64f0e" />
+
 
 
 - **Dynamic Filters & Slicers** for customized data analysis.
